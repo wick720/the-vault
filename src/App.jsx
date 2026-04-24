@@ -789,7 +789,7 @@ export default function VaultApp() {
     });
 
   return (
-    <div style={{minHeight:"100vh",background:t.bg,fontFamily:"'DM Sans',system-ui,sans-serif",maxWidth:900,margin:"0 auto",transition:"background 0.3s"}}>
+    <div style={{minHeight:"100vh",background:t.bg,fontFamily:"'DM Sans',system-ui,sans-serif",margin:"0 auto",transition:"background 0.3s"}}>
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600;700&display=swap');
         *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
